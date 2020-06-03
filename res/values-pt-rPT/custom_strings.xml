@@ -15,13 +15,13 @@
     <string name="duration_less_than_one_minute">Menos de um minuto</string>
     <string name="screen_time_summary_usage_today">%1$s hoje</string>
     <!-- Moto Face Unlock -->
-    <string name="security_settings_face_settings_footer_moto">Use o Desbloqueio facial para desbloquear seu dispositivo.\n\nLembre-se:\nOlhar para o telefone pode desbloqueá-lo, mesmo quando você não quiser.\n\nSeu telefone poderá ser desbloqueado por outra pessoa se ele for segurado na altura do seu rosto quando seus olhos estiverem abertos.\n\nSeu telefone pode ser desbloqueado por alguém que se parece muito com você, como seu filho ou gêmeo idêntico.</string>
+    <string name="security_settings_face_settings_footer_moto">Use o Desbloqueio facial para desbloquear o seu dispositivo.\n\nLembre-se:\nOlhar para o telefone pode desbloqueá-lo, mesmo quando você não quiser.\n\nO seu telefone poderá ser desbloqueado por outra pessoa se ele for segurado na altura do seu rosto quando seus olhos estiverem abertos.\n\nO seu telefone pode ser desbloqueado por alguém que é muito parecido consigo, como seu filho ou gêmeo idêntico.</string>
     <string name="security_settings_face_settings_remove_dialog_details_moto">Os dados gravados pelo desbloqueio facial serão excluídos permanentemente e com segurança. Após a remoção, você precisará do PIN, da senha ou do padrão para desbloquear o telefone.</string>
     <!-- Adaptive battery -->
     <string name="battery_tip_smart_battery_summary_custom">Ative a Bateria adaptável</string>
-    <string name="smart_battery_footer_custom">"Para aumentar a duração da bateria, a Bateria adaptável limita a bateria para apps pouco utilizados. Com o tempo, seu smartphone aprenderá como você usa os apps.
+    <string name="smart_battery_footer_custom">"Para aumentar a duração da bateria, a Bateria adaptável limita a bateria para apps pouco utilizados. Com o tempo, o seu smartphone aprenderá como você usa as apps.
 
-É possível que as notificações desses apps sejam entregues com atraso."</string>
+É possível que as notificações dessas apps sejam entregues com atraso."</string>
     <string name="smart_battery_manager_title_custom">Bateria adaptável</string>
     <string name="smart_battery_title_custom">Usar Bateria adaptável</string>
     <!-- Fingerprint location message - default -->
@@ -37,7 +37,7 @@
     <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Localize o sensor de impressões digitais na lateral esquerda do seu tablet.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Localize o sensor de impressões digitais na lateral direita do seu tablet.</string>
     <!-- Generic stuff used everywhere -->
-    <string name="reset">Repor</string>
+    <string name="reset">Repôr</string>
     <!-- Buttons -->
     <string name="button_pref_title">Botões</string>
     <string name="hardware_keys_home_key_title">Botão Página Inicial</string>
@@ -61,7 +61,7 @@
     <string name="hardware_keys_swipe_right_key_title">Deslizar para a direita</string>
     <string name="hardware_keys_swipe_left_key_title">Deslizar para a esquerda</string>
     <string name="hardware_keys_long_tap_key_title">Toque longo</string>
-    <string name="hardware_keys_swipe_tap_title">Ação de deslizamento</string>
+    <string name="hardware_keys_swipe_tap_title">Ação de deslize</string>
     <string name="hardware_keys_long_tap_title">Ação de toque longo</string>
     <string name="button_wake_title">Acordar o dispositivo</string>
     <string name="camera_sleep_on_release_title">Apresentação rápida</string>
